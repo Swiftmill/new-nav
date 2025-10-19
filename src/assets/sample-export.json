@@ -1,0 +1,18 @@
+{
+  "theme": "aurora",
+  "accentColor": "#7c3aed",
+  "themeSounds": false,
+  "showSuggestions": true,
+  "showWeather": false,
+  "showNews": false,
+  "searchEngine": "google",
+  "startPageDefault": true,
+  "backgroundMode": "image",
+  "cpuLimit": 45,
+  "ramLimit": 60,
+  "fpsLimit": 120,
+  "speedDial": [
+    { "id": "chatgpt", "title": "ChatGPT", "url": "https://chat.openai.com", "icon": "/assets/icons/chatgpt.svg" }
+  ],
+  "favorites": []
+}
